@@ -20,3 +20,11 @@ Stage.js provides an intuitive api to create interactive graphics on HTM5 2D Can
 [**Documentations**](http://piqnt.com/stage.js/docs/)
 
 [**Examples & Demos**](http://piqnt.com/stage.js/)
+
+---
+
+### Sponsors
+
+<a href="https://link.piqnt.com/link/qripcgt9t0iw">
+  <img width="80" height="80" src="https://link.piqnt.com/img/qripcgt9t0iw" />
+</a>
